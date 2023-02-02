@@ -1,0 +1,1279 @@
+fileFormatVersion: 2
+guid: 5c97656f7460d1946a05579df12cd5a5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 968
+        width: 620
+        height: 871
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e2c167abc5329408e5e746f72b87ee
+      internalID: 397649180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_1
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1687
+        width: 168
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5855b3ae9243ee498b7ee709af6e694
+      internalID: 416898580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1685
+        width: 148
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42192b6b228d3a540816a7b9aa776e46
+      internalID: 324507212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_3
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1710
+        width: 117
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbafebaec8aedf4e9dfbded59b01b28
+      internalID: -1792218753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_4
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1683
+        width: 158
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4df31e8d62ec024d8988748d1ee0dc7
+      internalID: 2030243320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1692
+        width: 168
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30539005ee8076344847f0c8d78da404
+      internalID: 1656659968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_6
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1690
+        width: 122
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873064b92f6b28c41a08b8d89957bac1
+      internalID: 1838108030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_7
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1690
+        width: 122
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160c6f32bcd400b49a9529badb132666
+      internalID: 1772234790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_8
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 1690
+        width: 150
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b5b12ef0a5d2d4381aba2d9fd52529
+      internalID: 985945203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_9
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1519
+        width: 168
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e1e66626adbb84092a626d89bae8fb
+      internalID: -1836980516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_10
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1517
+        width: 146
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1d073c0bdae6a4dbfdfaff139c668f
+      internalID: 1839251020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_11
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1574
+        width: 85
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702a3805d230ce14a87c88f425e4532f
+      internalID: 1185448758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_12
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1519
+        width: 158
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee360389c3aa2040aace51e12c8c7b6
+      internalID: -1448276485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_13
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 910
+        width: 760
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926421baeeef8d244802a42304cb00ee
+      internalID: -1484787649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_14
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1351
+        width: 168
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317c607ff1dd9f144a57bdf32a388989
+      internalID: 1160330078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_15
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1349
+        width: 148
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e593cb53dbf3dc4c91911962b573b61
+      internalID: -979552576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_16
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1438
+        width: 112
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22e9e0a26623024ba81f0ce05434eb2
+      internalID: -1102635292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_17
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 426
+        width: 172
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f562fd1df50d947831e3bb9d141fc8
+      internalID: -1262880218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_18
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1183
+        width: 168
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a6c55bf11f82148b430b8af299af87
+      internalID: -1227346998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_19
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1181
+        width: 146
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7f5039fec2fbd4e8d8b73004f1eea7
+      internalID: -1133602305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_20
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1275
+        width: 158
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572946d69d7b6d54c9a636f669b2d589
+      internalID: -312678766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_21
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1015
+        width: 168
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e8c128a3d08284bb759cc59139c213
+      internalID: -1760395441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_22
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1118
+        width: 122
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931a4e745ec5a8348a849fe96d889019
+      internalID: -370151970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 813
+        width: 135
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9652f5b398ede9f4886d8653ca737600
+      internalID: -64478344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 628
+        width: 640
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b0fdb5e25dd614b86e337b1dc8b2ec
+      internalID: -132902471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_25
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 847
+        width: 168
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4507fb801edfbeb47b70ab1837a282aa
+      internalID: -1287230419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 898
+        width: 148
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0318f5f392f28ab498c56efb7d2a16aa
+      internalID: -332128821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_27
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 620
+        width: 164
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66528f02c8583644bc7128ca686d121
+      internalID: 1721688666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 679
+        width: 168
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c872d21833b3be43935d55ef1d56733
+      internalID: 1160298853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_29
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 755
+        width: 105
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26060baf5eb931e488841c1cfae742af
+      internalID: -1834910992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_30
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 721
+        width: 168
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0d4e25a8394374ea77e980088bbe0d
+      internalID: 205426779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_31
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 719
+        width: 146
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b00cfe5c3d223419abdb45bc24f63f
+      internalID: 815532281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 433
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce801ac757730945a6c3ee82e1b16d1
+      internalID: 2124113858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_33
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 456
+        width: 171
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77fb52d99d9fdb4cb555f47a7401873
+      internalID: 2132273273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_34
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 475
+        width: 102
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24cfdad8e0a1e94d8ef232ab10f697a
+      internalID: -1068305996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_35
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 511
+        width: 168
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e45d3fb1d6370542a47796c0a84ecf3
+      internalID: 502814176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 511
+        width: 168
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd731f263b966e46a4cdec0f0fd7c90
+      internalID: 2072261843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_37
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 268
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6688bbcb21fa6d14a969c910cd599e25
+      internalID: -1445500606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_38
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 295
+        width: 165
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc88c76ffc574740806d2ebe539aaf8
+      internalID: -401740513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_39
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 343
+        width: 336
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c828028e4a49a45981dad609437d43
+      internalID: 1167965705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_40
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 270
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c2e3f99f54a3c4c9716680c2bae093
+      internalID: 256975247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_41
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 158
+        width: 130
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a97a9a35d01c274590bbf04dd5e97e8
+      internalID: -1318512541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_42
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 220
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba44a93f06c85f4391c9d77046a3e57
+      internalID: -801114336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_43
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 220
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834d7aa56c79d594694a7ad3a970d81b
+      internalID: 1124558922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_44
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 175
+        width: 171
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7867d05b27932a445bb9549a838399ea
+      internalID: 893134744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_45
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 173
+        width: 146
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f674bce3177e94796b9c15723454ea
+      internalID: 2002156033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_46
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 182
+        width: 142
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edafcd7297692ad458ae776b97a29f93
+      internalID: -2106563385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_47
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 114
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b0251ebd40cc34082c7bb569a948eb
+      internalID: -1122324599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_48
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 113
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9786f9042ec1340afe78dd1e989a21
+      internalID: 1849964081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_49
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 113
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb860cbc8d6b9a48acb92f31e518a26
+      internalID: -2046832637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_50
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 7
+        width: 168
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc099f116b1940948aa681d656c97d37
+      internalID: -939328601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-Crush-Logo-PNG-Pic_51
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 5
+        width: 148
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7905d5507ccb4ae42b39346b13f9629e
+      internalID: -584032313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Candy-Crush-Logo-PNG-Pic_0: 397649180
+      Candy-Crush-Logo-PNG-Pic_38: -401740513
+      Candy-Crush-Logo-PNG-Pic_46: -2106563385
+      Candy-Crush-Logo-PNG-Pic_45: 2002156033
+      Candy-Crush-Logo-PNG-Pic_14: 1160330078
+      Candy-Crush-Logo-PNG-Pic_7: 1772234790
+      Candy-Crush-Logo-PNG-Pic_16: -1102635292
+      Candy-Crush-Logo-PNG-Pic_12: -1448276485
+      Candy-Crush-Logo-PNG-Pic_23: -64478344
+      Candy-Crush-Logo-PNG-Pic_49: -2046832637
+      Candy-Crush-Logo-PNG-Pic_27: 1721688666
+      Candy-Crush-Logo-PNG-Pic_36: 2072261843
+      Candy-Crush-Logo-PNG-Pic_41: -1318512541
+      Candy-Crush-Logo-PNG-Pic_13: -1484787649
+      Candy-Crush-Logo-PNG-Pic_43: 1124558922
+      Candy-Crush-Logo-PNG-Pic_19: -1133602305
+      Candy-Crush-Logo-PNG-Pic_5: 1656659968
+      Candy-Crush-Logo-PNG-Pic_6: 1838108030
+      Candy-Crush-Logo-PNG-Pic_28: 1160298853
+      Candy-Crush-Logo-PNG-Pic_31: 815532281
+      Candy-Crush-Logo-PNG-Pic_35: 502814176
+      Candy-Crush-Logo-PNG-Pic_18: -1227346998
+      Candy-Crush-Logo-PNG-Pic_15: -979552576
+      Candy-Crush-Logo-PNG-Pic_11: 1185448758
+      Candy-Crush-Logo-PNG-Pic_22: -370151970
+      Candy-Crush-Logo-PNG-Pic_32: 2124113858
+      Candy-Crush-Logo-PNG-Pic_25: -1287230419
+      Candy-Crush-Logo-PNG-Pic_33: 2132273273
+      Candy-Crush-Logo-PNG-Pic_51: -584032313
+      Candy-Crush-Logo-PNG-Pic_47: -1122324599
+      Candy-Crush-Logo-PNG-Pic_4: 2030243320
+      Candy-Crush-Logo-PNG-Pic_8: 985945203
+      Candy-Crush-Logo-PNG-Pic_3: -1792218753
+      Candy-Crush-Logo-PNG-Pic_29: -1834910992
+      Candy-Crush-Logo-PNG-Pic_48: 1849964081
+      Candy-Crush-Logo-PNG-Pic_34: -1068305996
+      Candy-Crush-Logo-PNG-Pic_10: 1839251020
+      Candy-Crush-Logo-PNG-Pic_37: -1445500606
+      Candy-Crush-Logo-PNG-Pic_21: -1760395441
+      Candy-Crush-Logo-PNG-Pic_50: -939328601
+      Candy-Crush-Logo-PNG-Pic_30: 205426779
+      Candy-Crush-Logo-PNG-Pic_1: 416898580
+      Candy-Crush-Logo-PNG-Pic_9: -1836980516
+      Candy-Crush-Logo-PNG-Pic_2: 324507212
+      Candy-Crush-Logo-PNG-Pic_40: 256975247
+      Candy-Crush-Logo-PNG-Pic_26: -332128821
+      Candy-Crush-Logo-PNG-Pic_17: -1262880218
+      Candy-Crush-Logo-PNG-Pic_39: 1167965705
+      Candy-Crush-Logo-PNG-Pic_44: 893134744
+      Candy-Crush-Logo-PNG-Pic_42: -801114336
+      Candy-Crush-Logo-PNG-Pic_20: -312678766
+      Candy-Crush-Logo-PNG-Pic_24: -132902471
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -6,19 +6,17 @@ public class Candy : MonoBehaviour
 {
     float touchAngle;
     Vector2 firstTouchPos;
-    Vector2 finishTouchPos;
-    GameObject otherObje;
-    GameManager gm;
-    int column;
-    int row;
-    
+
 
     void Start()
     {
         column = (int)transform.position.x;
         row = (int)transform.position.y;
         gm = FindObjectOfType<GameManager>();
-    
+        column = (int)transform.position.x;
+        row = (int)transform.position.y;
+        gm = FindObjectOfType<GameManager>();
+
     }
 
     // Update is called once per frame
